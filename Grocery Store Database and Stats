@@ -3,17 +3,17 @@ CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT, section TEXT, price INTEG
 INSERT INTO store VALUES (1, "Facialwash", "beauty", 10.99, 4);
 INSERT INTO store VALUES (2, "Candle", "home", 5.99, 3);
 INSERT INTO store VALUES (3, "Audiospeaker", "electronics", 30.99,4.5);
-INSERT INTO store VALUES (4, "Bodylotion", "personal care", 25.99,3);
+INSERT INTO store VALUES (4, "Bodylotion", "personal_care", 25.99,3);
 INSERT INTO store VALUES (5, "VitaminC", "health", 15.99, 3);
 INSERT INTO store VALUES (6, "Eyeliner", "beauty", 10.99, 3);
 INSERT INTO store VALUES (7, "Advil", "health", 10.99, 3);
-INSERT INTO store VALUES (8, "Bodywash", "personal care", 15.99, 3);
+INSERT INTO store VALUES (8, "Bodywash", "personal_care", 15.99, 3);
 INSERT INTO store VALUES (9, "Lipstick", "beauty", 5.99, 2);
-INSERT INTO store VALUES (10, "Handsoap", "personal care", 5.99, 3);
+INSERT INTO store VALUES (10, "Handsoap", "personal_care", 5.99, 3);
 INSERT INTO store VALUES (11, "Eyecream", "beauty", 10.99, 3);
-INSERT INTO store VALUES (12, "Shavingcream", "personal care", 15.99, 3);
+INSERT INTO store VALUES (12, "Shavingcream", "personal_care", 15.99, 3);
 INSERT INTO store VALUES (13, "Claritin", "health", 10.99, 3);
-INSERT INTO store VALUES (14, "Deodorant", "personal care", 10.99, 3);
+INSERT INTO store VALUES (14, "Deodorant", "personal_care", 10.99, 3);
 INSERT INTO store VALUES (15, "Smartwatch", "electronics", 50.99, 4.5);
 
 
